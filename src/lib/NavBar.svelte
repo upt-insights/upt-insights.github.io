@@ -17,6 +17,7 @@
       <div class="navbar-nav ms-auto">
         <a class="nav-link" use:link use:active={'/'} href="/">Billing</a>
         <a class="nav-link" use:link use:active href="/safety">Safety</a>
+        <a class="nav-link" use:link use:active href="/maint">Maint</a>
       </div>
     </div>
   </div>
